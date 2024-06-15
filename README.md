@@ -22,7 +22,6 @@
 <tr>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create and User Trait in Laravel 11?</a></td>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create and User Trait in Laravel 11?</a></td>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create and User Trait in Laravel 11?</a></td>
 </tr>
 </table>
 
