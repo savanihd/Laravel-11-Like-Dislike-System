@@ -16,10 +16,22 @@
  Run `php artisan serve` for a dev server. Navigate to `http://localhost:8000/`. The application will automatically reload if you change any of the source files.
 
 
-## ⭐️ List of Laravel 11 Tutorial Example Step by Step: 
+## ⭐️ List of Laravel 11 Tutorial Examples Step by Step: 
 
 
 <table>
+<tr>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-crud-application-example-tutorialexample.html">Laravel 11 CRUD Application Tutorial</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-import-export-excel-and-csv-file-tutorialexample.html">Laravel 11 Import Export Excel and CSV File Tutorial</a></td>
+</tr>
+<tr>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html">Laravel 11 REST API Authentication using Sanctum Tutorial</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-rest-api-with-passport-authentication-tutorialexample.html">Laravel 11 REST API with Passport Authentication Tutorial</a></td>
+</tr>
+<tr>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-generate-pdf-file-using-dompdf-exampleexample.html">Laravel 11 Generate PDF File using DomPDF Example</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-yajra-datatables-example-tutorialexample.html">Laravel 11 Yajra Datatables Example Tutorial</a></td>
+</tr>
 <tr>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create and User Trait in Laravel 11?</a></td>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-custom-middleware-in-laravel-11example.html">How to Create Custom Middleware in Laravel 11?</a></td>
@@ -31,6 +43,10 @@
 <tr>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-custom-class-in-laravel-11example.html">How to Create Custom Class in Laravel 11?</a></td>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-custom-class-in-laravel-11example.html">How to Create Custom Class in Laravel 11?</a></td>
+</tr>
+<tr>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-pagination-with-relationship-exampleexample.html">Laravel 11 Pagination with Relationship Example</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-upload-files-to-amazon-s3-in-laravel-11example.html">How to Upload Files to Amazon S3 in Laravel 11?</a></td>
 </tr>
 </table>
 
