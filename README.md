@@ -88,7 +88,7 @@
 
 🌍 Huge Number of Laravel 11 Articles
 <p align="center">
-<a href="https://www.itsolutionstuff.com/tag/laravel-11.html">Laravel 11 Tutorial Collection</a>
+<a href="https://www.itsolutionstuff.com/tag/laravel-11.html"><button>Laravel 11 Tutorial Collection</button></a>
 </p>
 
 
