@@ -22,19 +22,19 @@
 <table>
 <tr>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-crud-application-example-tutorialexample.html">Laravel 11 CRUD Application Tutorial</a></td>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-import-export-excel-and-csv-file-tutorialexample.html">Laravel 11 Import Export Excel and CSV File Tutorial</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-import-export-excel-and-csv-file-tutorialexample.html">Laravel 11 Import Export Excel and CSV File</a></td>
 </tr>
 <tr>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html">Laravel 11 REST API Authentication using Sanctum Tutorial</a></td>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-rest-api-with-passport-authentication-tutorialexample.html">Laravel 11 REST API with Passport Authentication Tutorial</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html">Laravel 11 Sanctum REST API Authentication</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-rest-api-with-passport-authentication-tutorialexample.html">Laravel 11 Passport REST API Authentication</a></td>
 </tr>
 <tr>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-generate-pdf-file-using-dompdf-exampleexample.html">Laravel 11 Generate PDF File using DomPDF Example</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-generate-pdf-file-using-dompdf-exampleexample.html">Laravel 11 Generate PDF File using DomPDF</a></td>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-yajra-datatables-example-tutorialexample.html">Laravel 11 Yajra Datatables Example Tutorial</a></td>
 </tr>
 <tr>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create and User Trait in Laravel 11?</a></td>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-custom-middleware-in-laravel-11example.html">How to Create Custom Middleware in Laravel 11?</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-custom-middleware-in-laravel-11example.html">Laravel 11 Create Custom Middleware</a></td>
 </tr>
 <tr>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-publish-api-route-file-in-laravel-11example.html">How to Publish API Routes in Laravel 11?</a></td>
