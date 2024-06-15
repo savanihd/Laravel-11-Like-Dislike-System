@@ -18,27 +18,20 @@
 
 ## ⭐️ List of Laravel 11 Tutorial Example Step by Step: 
 
+
 <table>
 <tr>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create and User Trait in Laravel 11?</a></td>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create and User Trait in Laravel 11?</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-custom-middleware-in-laravel-11example.html">How to Create Custom Middleware in Laravel 11?</a></td>
 </tr>
 <tr>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create Custom Middleware in Laravel 11?</a></td>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create and User Trait in Laravel 11?</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-publish-api-route-file-in-laravel-11example.html">How to Publish API Routes in Laravel 11?</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-interface-in-laravel-11example.html">How to Create Interface in Laravel 11?</a></td>
+</tr>
+<tr>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-custom-class-in-laravel-11example.html">How to Create Custom Class in Laravel 11?</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-custom-class-in-laravel-11example.html">How to Create Custom Class in Laravel 11?</a></td>
 </tr>
 </table>
 
 > [Laravel 11 Tutorial Collection](https://www.itsolutionstuff.com/tag/laravel-11.html)
-
-> [How to Create and User Trait in Laravel 11?](https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html)
-
-> [How to Create Custom Middleware in Laravel 11?](https://www.itsolutionstuff.com/post/how-to-create-custom-middleware-in-laravel-11example.html)
-
-> [How to Publish API Routes in Laravel 11?](https://www.itsolutionstuff.com/post/how-to-publish-api-route-file-in-laravel-11example.html)
-
-> [How to Create Interface in Laravel 11?](https://www.itsolutionstuff.com/post/how-to-create-interface-in-laravel-11example.html)
-
-> [How to Create Custom Class in Laravel 11?](https://www.itsolutionstuff.com/post/how-to-create-custom-class-in-laravel-11example.html)
-
-> [How to Create Interface in Laravel 11?](https://www.itsolutionstuff.com/post/how-to-create-interface-in-laravel-11example.html)
