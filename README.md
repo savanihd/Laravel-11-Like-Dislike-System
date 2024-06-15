@@ -86,4 +86,10 @@
 </tr>
 </table>
 
+<br/>
 > [Laravel 11 Tutorial Collection](https://www.itsolutionstuff.com/tag/laravel-11.html)
+<br/>
+
+## Published By
+
+Publish one article daily about Laravel on the [ItSolutionStuff.com](https://www.itsolutionstuff.com).
