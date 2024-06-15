@@ -87,7 +87,7 @@
 </table>
 
 🌍 Huge Number of Laravel 11 Articles
-> [Laravel 11 Tutorial Collection](https://www.itsolutionstuff.com/tag/laravel-11.html)
+[![Laravel 11 Tutorial Collection]][https://www.itsolutionstuff.com/tag/laravel-11.html]
 
 
 ## 🚀 Published By
