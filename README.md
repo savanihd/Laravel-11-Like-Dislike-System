@@ -25,8 +25,8 @@
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-import-export-excel-and-csv-file-tutorialexample.html">Laravel 11 Import Export Excel and CSV File</a></td>
 </tr>
 <tr>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-user-roles-and-permissions-tutorialexample.html">Laravel 11 User Roles and Permissions Tutorial</a></td>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-json-web-tokenjwt-api-authentication-tutorialexample.html">Laravel 11 JSON Web Token(JWT) API Authentication</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-user-roles-and-permissions-tutorialexample.html">Laravel 11 User Roles and Permissions</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-json-web-tokenjwt-api-authentication-tutorialexample.html">Laravel 11 JWT API Authentication</a></td>
 </tr>
 <tr>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html">Laravel 11 Sanctum REST API Authentication</a></td>
@@ -69,7 +69,7 @@
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-stripe-payment-gateway-integration-exampleexample.html">Laravel 11 Stripe Payment Gateway Integration</a></td>
 </tr>
 <tr>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-event-calendar-in-laravel-11example.html">How to Create Event Calendar in Laravel 11?</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/how-to-create-event-calendar-in-laravel-11example.html">Laravel 11 Create Event Calendar</a></td>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-crud-with-image-upload-tutorialexample.html">Laravel 11 CRUD with Image Upload</a></td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@
 </tr>
 <tr>
     <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-livewire-wizard-multi-step-form-tutorialexample.html">Laravel 11 Livewire Wizard Multi Step Form</a></td>
-    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-ckeditor-image-upload-exampleexample.html">laravel-11-livewire-wizard-multi-step-form-tutorialexample.html</a></td>
+    <td>🔗 <a href="https://www.itsolutionstuff.com/post/laravel-11-ckeditor-image-upload-exampleexample.html">Laravel 11 CKeditor Image Upload Example</a></td>
 </tr>
 </table>
 
